@@ -85,3 +85,13 @@ Plan d'adressage (Exemple Compagnie E / n°5)
         -Administration : Autorisation du SSH uniquement vers les firewalls voisins.
 
         -Entrant : Publication sécurisée des services avec traçage des logs et levée d'alarmes majeures pour les accès à l'interface d'administration.
+
+🏁 Conclusion
+
+Ce dépôt constitue un kit complet pour toute personne souhaitant s'entraîner sérieusement à l'administration des solutions Stormshield. Vous y trouverez :
+
+    -Le Sujet du Lab : L'énoncé détaillé des exercices et le cahier des charges technique.
+
+    -Le Compte Rendu : Ma documentation pas-à-pas incluant les captures d'écran, les vérifications de flux (ping, telnet, ftp) et les explications des configurations choisies.
+
+    -Les Machines Virtuelles (VM) : Les environnements (SNS EVA, serveur Debian) entièrement configurés selon les exercices décrits.
