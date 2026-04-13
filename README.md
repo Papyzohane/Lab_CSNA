@@ -4,6 +4,7 @@ Ce dépôt contient l'ensemble un lab avec l'ensemble des ressources, topologies
 🏗️ Architecture du Lab
 
 L'environnement est basé sur une topologie multi-entreprises reliées par un réseau externe (192.36.253.0/24). Chaque site dispose de :
+
 -Firewall SNS : Modèle SN210W (Version logicielle 4.6.11).
 -Serveur Debian : Hébergeant les services DNS, WEB, FTP et MAIL.
 -Poste Client : Station Windows pour l'administration et les tests de flux.
