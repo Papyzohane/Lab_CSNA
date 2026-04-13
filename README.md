@@ -12,9 +12,13 @@ L'environnement est basé sur une topologie multi-entreprises reliées par un r�
 -Poste Client : Station Windows pour l'administration et les tests de flux.
 
 Plan d'adressage (Exemple Compagnie E / n°5)
+
 -Interface IN : 192.168.5.254/24
+
 -Interface DMZ : 172.16.5.254/24
+
 -Interface OUT : 192.36.253.50/24
+
 -Réseau Interne : 192.168.5.0/24
     
 <img width="814" height="610" alt="image" src="https://github.com/user-attachments/assets/c8782f2a-079f-497a-8d51-4456fdee60b3" />
